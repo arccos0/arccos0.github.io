@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student at the Department of Mathematics and Industrial Engineering at Polytechnique Montréal, advised by Professor Michel Gendreau and André Langevin. I am interested in  combination of machine learning and integer programming algorithms. Before joining Polytechnique, I graduated from Beijing University of Post and Telecommunication with a B.S. in Automation Engineering on June 2014 and from Shanghai Jiao Tong University with a M.S. in Industrial Engineering on Mar 2018. From Jan 2018 to July 2018, I worked as an operations research analyst in Youhualin Information Technology（Shanghai）Co. Ltd.
+I am a third-year Ph.D. student in the Department of Mathematics and Industrial Engineering at Polytechnique Montréal, advised by Michel Gendreau and André Langevin. I am interested in  combination of vehicle routing problems, packing problems as well as the combination of machine learning and integer programming. Before joining Polytechnique, I graduated from Beijing University of Post and Telecommunication with a B.S. in Automation Engineering on June 2014 and from Shanghai Jiao Tong University with a M.S. in Industrial Engineering on Mar 2018. From Jan 2018 to July 2018, I worked as an operations research analyst in Youhualin Information Technology（Shanghai）Co. Ltd.
 
 A data-driven personal website
 ======
