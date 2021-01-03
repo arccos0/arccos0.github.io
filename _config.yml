@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiangyi Zhang / Xiangyi's academic website"
+title                    : "Xiangyi Zhang / 湘毅"
 title_separator          : "-"
 name                     : &name "Xiangyi"
 description              : &description "personal description"
