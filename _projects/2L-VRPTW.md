@@ -5,13 +5,4 @@ permalink: /projects/2L-VRPTW
 date: 2019.05 - 2020.01
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+All the instances involved in the project can be downloaded [here](https://drive.google.com/drive/folders/1l86a2kQJFZChLTF13Q1RWOcpafQ6x_z9)
