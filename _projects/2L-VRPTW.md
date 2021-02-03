@@ -4,7 +4,4 @@ collection: projects
 permalink: /projects/2L-VRPTW
 date: 2019.05 - 2020.01
 ---
-
-All the instances involved in the project can be downloaded [here](https://drive.google.com/file/d/1YPWRLesVrDa0lpn5zZg1mRWXzPus8bWH/view?usp=sharing) including the instances to generate training samples, test data as well as the existing instances from the literature.<br>
-The feasibility predictor can be downloaded [here](https://drive.google.com/file/d/1j3lLncUSu8UlRpSkHt7UUlNkJEaJJG_-/view?usp=sharing). The file is in .pt format. To load the predictor and apply it, one could see the [instruction](https://github.com/arccos0/Feasibility-Predictor-for-two-dimensional-loading-constraints). <br>
-One could test the predictor on these [test files](https://drive.google.com/file/d/1Vj2vlKO7LWYv2tkY65K4oWdHIVhO6HJP/view?usp=sharing), of which the results should be consistent to what is reported in the paper.
+The [repo](https://github.com/arccos0/Feasibility-Predictor-for-two-dimensional-loading-constraints) for the project.
